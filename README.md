@@ -7,6 +7,7 @@
 ### Python
 
     1. List Comprehensions
+    2. Find the Runner-Up Score
 
 ### SQL
 
