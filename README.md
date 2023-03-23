@@ -18,6 +18,7 @@
 ### SQL
 
     1. Revising the Select Query I
+    2. Revising the Select Query II
 
 ### C++
 
