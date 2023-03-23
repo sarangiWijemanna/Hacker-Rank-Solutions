@@ -6,12 +6,18 @@
 
 ### Python
 
-    1. List Comprehensions
-    2. Find the Runner-Up Score
+    1. Say "Hello, World!" With Python
+    2. Python If-Else
+    3. Arithmetic Operators
+    4. Loops - For
+    5. Write a function
+    6. Print Function
+    7. List Comprehensions
+    8. Find the Runner-Up Score
 
 ### SQL
 
-    1. 
+    1. Revising the Select Query I
 
 ### C++
 
