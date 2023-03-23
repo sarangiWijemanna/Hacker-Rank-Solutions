@@ -8,7 +8,17 @@ Query all columns for all American cities in the ```CITY``` table with populatio
 
 The ```CITY``` table is described as follows:
 
+<img align="center" src="/Images/Revising the Select Query I.png" alt="icon"/>
 
+### Expected Output
+
+```
+    3878 Scottsdale USA Arizona 202705 
+    3965 Corona USA California 124966 
+    3973 Concord USA California 121780 
+    3977 Cedar Rapids USA Iowa 120758 
+    3982 Coral Springs USA Florida 117549 
+```
 
 ## Solution
 
@@ -17,3 +27,8 @@ SELECT *
   FROM CITY
   WHERE POPULATION > 100000 AND COUNTRYCODE = "USA";
 ```
+
+## Suggestions
+Don't forget to leave feedback if you find this repo useful or any improvemnts 💞.
+
+Thank you 🧡
