@@ -6,19 +6,23 @@
 
 ### Python
 
-    1. Say "Hello, World!" With Python
-    2. Python If-Else
-    3. Arithmetic Operators
-    4. Loops - For
-    5. Write a function
-    6. Print Function
-    7. List Comprehensions
-    8. Find the Runner-Up Score
+   1. [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)
+   2. [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
+   3. [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
+   4. [Loops - For](https://www.hackerrank.com/challenges/python-loops/problem)
+   5. [Python Division](https://www.hackerrank.com/challenges/python-division/problem)
+   6. [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true)
+   7. [Print Function](https://www.hackerrank.com/challenges/python-print/problem)
+   8. [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
+   9. [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true)
 
 ### SQL
 
-    1. Revising the Select Query I
-    2. Revising the Select Query II
+   1. [Revising the Select Query I](https://sltc.ac.lk](https://www.hackerrank.com/challenges/revising-the-select-query/problem)/)
+   2. [Revising the Select Query II](https://sltc.ac.lk](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)/)
+
+    
+
 
 ### C++
 
