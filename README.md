@@ -1,29 +1,42 @@
+<p align="center"><a href="https://www.hackerrank.com/sarangiwijemanna"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
+# HackerRank Solutions💚🚀❤
 
-# HackerRank 💚❤
+HackerRank is a popular online platform that provides coding challenges and competitions for software developers, as well as technical skills assessments and interviews for hiring companies. It allows programmers to test their skills and showcase their abilities by solving various coding problems in different programming languages.
+
+HackerRank Solutions refer to the various solutions that programmers submit to HackerRank's coding challenges. These solutions are reviewed by HackerRank's automated system and are also peer-reviewed by other users. The platform provides a learning environment where users can practice coding, improve their skills, and learn from the solutions of others. HackerRank Solutions also serve as a useful resource for programmers looking to prepare for technical interviews or enhance their programming knowledge.
+
+> As a beginner or a student, HackerRank Solutions can be very beneficial for several reasons:
+
+   - Practice: HackerRank provides a vast array of coding challenges across different programming languages and difficulty levels. As a beginner or a student, practicing on these challenges can help you build your programming skills and gain confidence in your abilities.
+
+   - Learning: By solving coding challenges on HackerRank, you can learn different programming concepts and algorithms. The platform provides explanations and hints for each challenge, which can help you understand the logic behind the solutions and improve your problem-solving skills.
+
+   - Preparation: Many companies use HackerRank as a tool to assess the coding skills of potential candidates during the hiring process. As a beginner or a student, solving coding challenges on HackerRank can help you prepare for technical interviews and increase your chances of landing a job.
+
+   - Community: HackerRank has a large community of users who actively participate in coding challenges and discussions. As a beginner or a student, you can benefit from the knowledge and experience of other users by studying their solutions and engaging in discussions on the platform.
+
 
 ## Prepare
 
 ### Python
 
-   1. [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)
-   2. [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
-   3. [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
-   4. [Loops - For](https://www.hackerrank.com/challenges/python-loops/problem)
-   5. [Python Division](https://www.hackerrank.com/challenges/python-division/problem)
-   6. [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true)
-   7. [Print Function](https://www.hackerrank.com/challenges/python-print/problem)
-   8. [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
-   9. [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true)
+   1. [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/Python/Say%20Hello%2C%20World.md)
+   2. [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/Python/Python%20If-Else.md)
+   3. [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/Python/Arithmetic%20Operators.md)
+   4. [Loops - For](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/Python/Loops.md)
+   5. [Python Division](https://www.hackerrank.com/challenges/python-division/problem) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/Python/Python%20Division.md)
+   6. [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/Python/Write%20a%20function.md)
+   7. [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/Python/Print%20Function.md)
+   8. [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/Python/List%20Comprehensions.md)
+   9. [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/Python/Find%20the%20Runner-Up%20Score.md)
 
 ### SQL
 
-   1. [Revising the Select Query I](https://sltc.ac.lk](https://www.hackerrank.com/challenges/revising-the-select-query/problem)/)
-   2. [Revising the Select Query II](https://sltc.ac.lk](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)/)
+   1. [Revising the Select Query I](https://sltc.ac.lk](https://www.hackerrank.com/challenges/revising-the-select-query/problem)/) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/SQL/Revising%20the%20Select%20Query%20I.md)
+   2. [Revising the Select Query II](https://sltc.ac.lk](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)/) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/SQL/Revising%20the%20Select%20Query%20II.md)
 
     
-
-
 ### C++
 
     1. 
@@ -49,11 +62,12 @@
     </tr>
 </table>
 
+
 ##  Suggestions
 
-Don't forget to leave feedback if you find this repo useful or any improvemnts⭐
+Don't forget to leave feedback if you find this repo useful or any improvemnts 🌹🌷.
 
-Thank you 🎆
+Thank you 🧡.
 
 
 
