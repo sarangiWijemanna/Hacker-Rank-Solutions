@@ -8,7 +8,7 @@ Query all columns for a city in ```CITY``` with the ID 1661.
 
 The ```CITY``` table is described as follows:
 
-<img align="center" src="/Images/Select By ID.png" alt="icon"/>
+<img align="center" src="/Images/CITY.png" alt="icon"/>
 
 ### Expected Output
 

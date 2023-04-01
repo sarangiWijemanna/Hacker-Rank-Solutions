@@ -38,6 +38,7 @@ HackerRank Solutions refer to the various solutions that programmers submit to H
    3. [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) |  [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/SQL/Select%20All.md)
    4. [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/SQL/Select%20By%20ID.md)
    5. [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/SQL/Japanese%20Cities'%20Attributes.md)
+   6. [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | [Solution]()
     
 ### C++
 

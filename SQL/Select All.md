@@ -8,7 +8,7 @@ Query all columns (attributes) for every row in the ```CITY``` table.
 
 The ```CITY``` table is described as follows:
 
-<img align="center" src="/Images/Select All.png" alt="icon"/>
+<img align="center" src="/Images/CITY.png" alt="icon"/>
 
 ### Expected Output
 

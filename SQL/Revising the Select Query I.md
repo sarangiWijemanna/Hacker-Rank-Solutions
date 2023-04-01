@@ -8,7 +8,7 @@ Query all columns for all American cities in the ```CITY``` table with populatio
 
 The ```CITY``` table is described as follows:
 
-<img align="center" src="/Images/Revising the Select Query I.png" alt="icon"/>
+<img align="center" src="/Images/CITY.png" alt="icon"/>
 
 ### Expected Output
 
