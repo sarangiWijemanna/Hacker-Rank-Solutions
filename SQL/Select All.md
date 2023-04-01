@@ -11,7 +11,7 @@ The ```CITY``` table is described as follows:
 <img align="center" src="/Images/Select All.png" alt="icon"/>
 
 ### Expected Output
-git 
+
 ```
    6 Rotterdam NLD Zuid-Holland 593321 
 3878 Scottsdale USA Arizona 202705 

@@ -36,7 +36,7 @@ HackerRank Solutions refer to the various solutions that programmers submit to H
    1. [Revising the Select Query I](https://sltc.ac.lk](https://www.hackerrank.com/challenges/revising-the-select-query/problem)/) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/SQL/Revising%20the%20Select%20Query%20I.md)
    2. [Revising the Select Query II](https://sltc.ac.lk](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)/) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/SQL/Revising%20the%20Select%20Query%20II.md)
    3. [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) |  [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/SQL/Select%20All.md)
-
+   4. [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/SQL/Select%20By%20ID.md)
     
 ### C++
 
