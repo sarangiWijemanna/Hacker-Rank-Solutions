@@ -42,7 +42,7 @@ Belvet
 - If you look at the last three characters of each of their names, there are no duplicates and 'ley' < 'lia' < 'vet'.
 
 
-### Expected Output
+## Expected Output
 
 ```
 Stuart 
