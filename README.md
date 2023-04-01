@@ -55,9 +55,10 @@ HackerRank Solutions refer to the various solutions that programmers submit to H
    20. [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) | [Solution](https://github.com/sarangiWijemanna/Hacker-Rank-Solutions/blob/main/SQL/Employee%20Salaries.md)
 
     
-### C++
+### C+
 
-    1. 
+
+
     
 ## Tech Stack
 
